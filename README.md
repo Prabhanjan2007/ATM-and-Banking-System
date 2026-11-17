@@ -1,10 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
 # Reg No: 212225040305
 # Name: B Prabhanjan
-# Date: 17/11/2026<img width="881" height="803" alt="use-case" src="https://github.com/user-attachments/assets/a99e6557-e220-4fa4-a2ec-b5c9ad26faac" />
-<img width="881" height="803" alt="use-case" src="https://github.com/user-attachments/assets/a394715a-7987-43b7-a11b-699e3469d058" />
-
-
+# Date: 17/11/2026
 
 # AIM:
 To develop the ATM and Banking System using Star UML
